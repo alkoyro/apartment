@@ -1,0 +1,51 @@
+input {
+    padding-left: 2px;
+}
+
+.middleOrientation {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.errorContainer {
+    display: table;
+    height: 100%;
+    width: 100%;
+}
+
+.containerPadding {
+    padding: 27px;
+}
+
+.strongMessage {
+    font-weight: bold;
+}
+
+.apartmentContainer {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #CCCCCC;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.costSpan {
+    float: right;
+    width: 100px;
+}
+
+.imageContainer {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border-width: 2px;
+}
+
+.description {
+    text-align: justify;
+    word-wrap: break-word;
+}
+
+.apartmentDetailsForm {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
